@@ -1,1 +1,1 @@
-{"step": 4, "loss": 1.9957, "accuracy": 0.5021, "learning_rate": 0.000689}\n{"step": 5, "loss": 1.9471, "accuracy": 0.5023, "learning_rate": 0.000907}\n{"step": 6, "loss": 1.911, "accuracy": 0.5087, "learning_rate": 0.000632}\n
+{"step": 4, "loss": 1.9957, "accuracy": 0.5021, "learning_rate": 0.000689}\n{"step": 5, "loss": 1.9471, "accuracy": 0.5023, "learning_rate": 0.000907}\n{"step": 6, "loss": 1.911, "accuracy": 0.5087, "learning_rate": 0.000632}\n{"step": 7, "loss": 1.8675, "accuracy": 0.5059, "learning_rate": 0.000459}\n
