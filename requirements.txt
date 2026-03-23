@@ -1,4 +1,5 @@
-gym
+gymnasium
 stable-baselines3
 pandas
 numpy
+yfinance
